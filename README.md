@@ -1,3 +1,3 @@
 # hello_world
 this is my first get repository
-THIS IS PROGRAMME TO PRINT HELLO WORLD
+THIS IS THE CODE TO PRINT HELLO WORLD
